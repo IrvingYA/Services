@@ -12,4 +12,4 @@ jobs:
     
         steps:
           - name: Test
-            run: "valor: $MY_VAR"
+            run: echo "valor: $MY_VAR"
